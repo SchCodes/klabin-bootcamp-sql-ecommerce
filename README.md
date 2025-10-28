@@ -2,8 +2,6 @@
 
 > **Desafio de projeto** desenvolvido no Bootcamp **Klabin - Data & Analytics com SQL**, com o objetivo de replicar e aprimorar o modelo de banco de dados de um sistema de e-commerce, aplicando fundamentos de modelagem relacional, criação de schema e elaboração de consultas analíticas (KPIs).
 
-📦 **Repositório:** [SchCodes/klabin-bootcamp-sql-ecommerce](https://github.com/SchCodes/klabin-bootcamp-sql-ecommerce.git)
-
 ---
 
 ## 🧭 Objetivo do Projeto
@@ -79,8 +77,7 @@ Durante o desenvolvimento, o projeto foi **além da simples replicação** do mo
 ## 🧩 Autor
 
 **Ericson Schmidt Bicalho**  
-📎 GitHub: [@SchCodes](https://github.com/SchCodes)  
-💼 Projeto: [klabin-bootcamp-sql-ecommerce](https://github.com/SchCodes/klabin-bootcamp-sql-ecommerce.git)
+📎 GitHub: [@SchCodes](https://github.com/SchCodes)
 
 ---
 
