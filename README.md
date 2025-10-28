@@ -34,7 +34,7 @@ Visualização da modelagem lógica e dos relacionamentos entre as entidades:
 
 ## 🚀 Melhorias Implementadas
 
-Durante o desenvolvimento, o projeto foi **além da simples replicação** do modelo de referência, incorporando ajustes estruturais e analíticos que reforçam a integridade e a coerência dos dados.
+Durante o desenvolvimento, o projeto foi **além da replicação** do modelo de referência, incorporando ajustes estruturais e analíticos, conforme o desafio proposto.
 
 ### 🔹 Modelagem e Integridade
 - Separação clara entre **ClientePF** e **ClientePJ**, mantendo relacionamento 1:1 com `Cliente`.  
