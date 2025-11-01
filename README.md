@@ -21,8 +21,8 @@ O sistema foi modelado para representar as principais operações de uma loja on
 |------|-----------------|
 | **DDL** | [`01_DDL_ecommerce.sql`](scripts/01_DDL_ecommerce.sql) |
 | **DML** | [`02_DML_ecommerce.sql`](scripts/02_DML_ecommerce.sql) |
-| **DQL** | [`03_queries_ecommerce.sql`](scripts/03_queries_ecommerce.sql) |
-| **Diagrama Relacional** | [`03_DQL_ecommerce.svg`](diagramas/03_DQL_ecommerce.svg) |
+| **DQL** | [`03_DQL_ecommerce.sql`](scripts/03_DQL_ecommerce.sql) |
+| **Diagrama Relacional** | [`diagram_ecommerce.svg`](diagramas/diagram_ecommerce.svg) |
 
 ---
 
