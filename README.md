@@ -19,10 +19,10 @@ O sistema foi modelado para representar as principais operações de uma loja on
 
 | Tipo | Nome / Caminho |
 |------|-----------------|
-| **DDL** | [`01_create_database_ecommerce.sql`](scripts/01_create_database_ecommerce.sql) |
-| **DML** | [`02_insert_data_ecommerce.sql`](scripts/02_insert_data_ecommerce.sql) |
+| **DDL** | [`01_create_database_ecommerce.sql`](scripts/01_DDL_ecommerce.sql) |
+| **DML** | [`02_insert_data_ecommerce.sql`](scripts/02_DML_ecommerce.sql) |
 | **DQL** | [`03_queries_ecommerce.sql`](scripts/03_queries_ecommerce.sql) |
-| **Diagrama Relacional** | [`modelo_relacional_ecommerce.svg`](diagramas/modelo_relacional_ecommerce.svg) |
+| **Diagrama Relacional** | [`modelo_relacional_ecommerce.svg`](diagramas/03_DQL_ecommerce.svg) |
 
 ---
 
