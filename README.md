@@ -35,7 +35,7 @@ O banco de dados é composto por entidades centrais que refletem o fluxo de um e
 - **Pedido** → entidade transacional que relaciona cliente aos **ItensPedido**.  
 - **Pagamento** → controle de valores, formas de pagamento e status financeiro por pedido.  
 - **Entrega** → informações de envio, status e código de rastreio.  
-- **Categoria** e (opcional) **Fornecedor** → catálogos de apoio para organização e suprimento.
+- **Categoria** e **Fornecedor** → catálogos de apoio para organização e suprimento.
 
 O modelo foi projetado para refletir a operação de uma loja virtual, com integridade entre clientes e pedidos, rastreabilidade de itens e controle de fluxo financeiro e logístico por pedido.
 
