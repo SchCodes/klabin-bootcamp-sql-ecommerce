@@ -8,7 +8,7 @@ Este projeto faz parte do Bootcamp Klabin – Transforme Dados em Insights Estra
 
 O sistema foi modelado para representar as principais operações de uma loja online:  
 - cadastro de clientes (PF e PJ);  
-- produtos, categorias e (opcionalmente) fornecedores;  
+- produtos, categorias e fornecedores;  
 - pedidos compostos por múltiplos itens e respectivos pagamentos;  
 - entregas com status e rastreamento;  
 - possibilidade de devoluções/cancelamentos conforme regras do domínio.
